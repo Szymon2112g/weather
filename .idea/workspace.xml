@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8394cf40-f793-433c-ad1c-871a5f50b8c7" name="Default Changelist" comment="" />
+    <list default="true" id="8394cf40-f793-433c-ad1c-871a5f50b8c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/WeatherRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/WeatherRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Clouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/Clouds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Coord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/Coord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Sys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/Sys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/WeatherAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/WeatherAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/Wind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/WeatherRest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/learn/api/weather/WeatherRest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/model/Clouds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/model/Coord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/model/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/model/Sys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/model/Weather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/model/WeatherAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learn/api/weather/model/Wind.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +35,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z2N6XCo6M4qDvAXsENbSHuqXbp" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -32,6 +56,9 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.learn.api.weather.model.Forecast" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.learn.api.weather.model" />
     </key>
@@ -69,10 +96,33 @@
       <updated>1584033054076</updated>
       <workItem from="1584033058351" duration="51000" />
       <workItem from="1584033169350" duration="6823000" />
+      <workItem from="1584120376818" duration="5159000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/api/weather/model/Weather/WeatherAPI.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.learn.api.weather.model;
+package com.learn.api.weather.model.Weather;
 
 import java.util.List;
 

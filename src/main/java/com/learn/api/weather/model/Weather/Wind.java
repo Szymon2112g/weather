@@ -1,4 +1,4 @@
-package com.learn.api.weather.model;
+package com.learn.api.weather.model.Weather;
 
 public class Wind {
     private double speed;

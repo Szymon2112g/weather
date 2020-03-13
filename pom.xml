@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.learn.api</groupId>
-	<artifactId>weather</artifactId>
+	<artifactId>forecastWeather</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>weather</name>
+	<name>forecastWeather</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
